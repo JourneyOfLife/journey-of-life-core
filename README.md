@@ -4,6 +4,7 @@
 > **GitHub Organization**: [github.com/JourneyOfLife](https://github.com/JourneyOfLife)  
 > **Official Website**: [journeyoflife.eu](https://journey-of-life.site/)  
 > **Contact**: journey4oflife@gmail.com
+> 
 > **License**: MIT License © 2025 Journey of Life
 
 ---
