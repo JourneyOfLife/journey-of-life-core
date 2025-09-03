@@ -13,13 +13,46 @@
 
 **Journey of Life** is a purpose-built technology initiative dedicated to serving **faith-based communities** and **ceremonial service providers** across the European Union. We develop secure, scalable, and spiritually sensitive digital platforms that support:
 
-- 🕊️ **Catholic Parishes, Deaneries, Dioceses, Cathedrals & Basilicas**  
-- ✝️ **Protestant Churches (Lutheran, Anglican, Evangelical, Pentecostal)**
-- ✝️ **Romanian Orthodox Churches (ROC)**
-- ✝️ **Russian Orthodox Churches and Parishes**
-- ⚰️ **Funeral Homes & Bereavement Services**  
-- 🪦 **Cemetery Care & Grave Monument Cleaning Services**
-- 🤝 **Market Place (for religious goods)**
+## 🕊️ Catholic Institutions  
+**Parishes, Deaneries, Dioceses, Cathedrals & Basilicas**  
+Faith-centered websites tailored for Roman Catholic communities, including hierarchical structures and liturgical calendars.
+
+---
+
+## ✝️ Protestant Churches  
+**Lutheran, Anglican, Evangelical, Pentecostal**  
+Custom digital platforms for Protestant denominations, supporting multilingual worship schedules and community outreach.
+
+---
+
+## ✝️ Romanian Orthodox Churches (ROC)  
+**Parishes and Diocesan Structures**  
+Web solutions for ROC entities with support for traditional Orthodox liturgy, iconography, and spiritual resources.
+
+---
+
+## ✝️ Russian Orthodox Churches and Parishes  
+**Traditional and Regional Orthodox Communities**  
+Dedicated sites for Russian Orthodox parishes, featuring GPS grave locators, donation portals, and sermon broadcasting.
+
+---
+
+## ⚰️ Funeral Homes & Bereavement Services  
+**Compassionate care and memorial planning**  
+Professional websites for funeral service providers, including online obituaries, service booking, and grief support resources.
+
+---
+
+## 🪦 Cemetery Care & Grave Monument Cleaning Services  
+**Grave upkeep, restoration, and seasonal maintenance**  
+Service portals for cemetery maintenance businesses, featuring before/after galleries, quote requests, and GPS mapping.
+
+---
+
+## 🤝 Marketplace for Religious Goods  
+**Cross-border e-commerce for church supplies, devotional items, and artisan crafts**  
+A multilingual platform for vendors and parishes to buy and sell religious goods across 27 EU countries and beyond.
+
 
 Our mission is to **honor tradition through innovation** — combining deep respect for religious practice with cutting-edge technology to create tools that are **ethical, accessible, GDPR-compliant, and deeply functional**.
 
