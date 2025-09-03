@@ -2,8 +2,8 @@
 ## *Empowering Catholic, Protestant, and Ceremonial Institutions Across Europe Through Ethical, AI-Driven Digital Solutions*
 
 > **GitHub Organization**: [github.com/JourneyOfLife](https://github.com/JourneyOfLife)  
-> **Official Website**: [journeyoflife.eu](https://journeyoflife.eu)  
-> **Contact**: Journey4ofLife@gmail.com 
+> **Official Website**: [journeyoflife.eu](https://journey-of-life.site/)  
+> **Contact**: journey4oflife@gmail.com
 > **License**: MIT License © 2025 Journey of Life
 
 ---
@@ -12,10 +12,13 @@
 
 **Journey of Life** is a purpose-built technology initiative dedicated to serving **faith-based communities** and **ceremonial service providers** across the European Union. We develop secure, scalable, and spiritually sensitive digital platforms that support:
 
-- 🕊️ **Catholic Parishes, Cathedrals & Basilicas**  
-- ✝️ **Protestant Churches (Lutheran, Anglican, Evangelical, Pentecostal)**  
+- 🕊️ **Catholic Parishes, Deaneries, Dioceses, Cathedrals & Basilicas**  
+- ✝️ **Protestant Churches (Lutheran, Anglican, Evangelical, Pentecostal)**
+- ✝️ **Romanian Orthodox Churches (ROC)**
+- ✝️ **Russian Orthodox Churches and Parishes**
 - ⚰️ **Funeral Homes & Bereavement Services**  
 - 🪦 **Cemetery Care & Grave Monument Cleaning Services**
+- 🤝 **Market Place (for religious goods)**
 
 Our mission is to **honor tradition through innovation** — combining deep respect for religious practice with cutting-edge technology to create tools that are **ethical, accessible, GDPR-compliant, and deeply functional**.
 
