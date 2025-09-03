@@ -1,115 +1,89 @@
 # 🌐 Journey of Life – Sacred Technology for Faith & Service  
-**Empowering Churches, Funeral Homes, and Grave Care Services Across Europe**  
-> *A trusted, secure, and AI-powered digital ecosystem built by the faith community, for the faith community.*
+## *Empowering Catholic, Protestant, and Ceremonial Institutions Across Europe Through Ethical, AI-Driven Digital Solutions*
+
+> **GitHub Organization**: [github.com/JourneyOfLife](https://github.com/JourneyOfLife)  
+> **Official Website**: [journeyoflife.eu](https://journeyoflife.eu)  
+> **Contact**: JourneyOfLife1@gmail.com  
+> **License**: MIT License © 2025 Journey of Life
 
 ---
 
-## 🚀 About This Project
+## 📌 Overview
 
-**Journey of Life** is a specialized IT solutions initiative dedicated to developing **secure, scalable, and spiritually sensitive digital platforms** for faith-based organizations and ceremonial service providers across the European Union.
+**Journey of Life** is a purpose-built technology initiative dedicated to serving **faith-based communities** and **ceremonial service providers** across the European Union. We develop secure, scalable, and spiritually sensitive digital platforms that support:
 
-We are **not a generic tech company**. We are a **purpose-built technology partner** serving:
+- 🕊️ **Catholic Parishes, Cathedrals & Basilicas**  
+- ✝️ **Protestant Churches (Lutheran, Anglican, Evangelical, Pentecostal)**  
+- ⚰️ **Funeral Homes & Bereavement Services**  
+- 🪦 **Cemetery Care & Grave Monument Cleaning Services**
 
-- 🕊️ Catholic Parishes, Cathedrals & Basilicas  
-- ✝️ Protestant & Evangelical Churches  
-- ⚰️ Funeral Homes & Bereavement Services  
-- 🪦 Cemetery, Grave Care & Monument Cleaning Services  
+Our mission is to **honor tradition through innovation** — combining deep respect for religious practice with cutting-edge technology to create tools that are **ethical, accessible, GDPR-compliant, and deeply functional**.
 
-Our mission: **To modernize ministry and sacred services through ethical, GDPR-compliant, and AI-enhanced digital tools — without compromising tradition, dignity, or privacy.**
-
----
-
-## 🛠️ What We Deliver
-
-We build and maintain **end-to-end digital solutions** tailored to the unique needs of religious and ceremonial institutions:
-
-| Feature | Purpose |
-|-------|--------|
-| **Custom Websites & Portals** | Branded, multilingual sites with event calendars, donation systems, and live-streaming |
-| **Mobile Apps (iOS & Android)** | For live Mass streaming, grave GPS locators, service booking, and volunteer coordination |
-| **Integrated CRM (Bitrix24)** | Centralized management of members, donors, families, and service workflows |
-| **AI-Powered Tools** | Chatbots for sacramental guidance, sermon search, volunteer scheduling, and content translation |
-| **Blockchain for Donations** | Transparent, immutable tracking of tithes and offerings |
-| **E-Commerce Marketplaces** | For religious goods, church supplies, and artisan crafts (B2B & B2C) |
-| **Route Optimization AI** | For grave cleaning teams — reduces fuel/time by up to 40% via smart GPS routing |
-
-All solutions are **multilingual (27+ EU languages)**, **WCAG-accessible**, and **GDPR-compliant**.
+This GitHub organization hosts the **open components, documentation, and development roadmap** of our platform, inviting collaboration from developers, security auditors, and faith leaders alike.
 
 ---
 
-## 💻 Technical Architecture
+## 🎯 Who We Serve
 
-Built for scalability, security, and long-term sustainability.
+### For Faith Communities
+We provide **digital sanctuaries** that reflect the dignity and structure of religious life:
+- Custom websites with **liturgical calendar integration**
+- **Live-streaming & on-demand access** to Masses, sermons, and sacramental rites
+- **AI-powered chatbots** trained on Catholic doctrine, Protestant theology, and pastoral care
+- **Online giving & blockchain-verified donations** for full transparency
+- **Volunteer coordination & sacramental program management** (Baptism, Marriage, First Communion)
 
-### 🏗️ Core Stack
-| Layer | Technology |
-|------|------------|
-| **CMS & Portal** | 1C-Bitrix |
-| **CRM & Workflow** | Bitrix24 (deeply integrated) |
-| **Backend** | Python (Django, FastAPI) |
-| **Frontend (Web & Mobile)** | React Native, Flutter |
-| **Databases** | PostgreSQL, MongoDB |
-| **AI & NLP** | LangChain, Hugging Face, Local LLMs (privacy-first) |
-| **DevOps & CI/CD** | GitHub Actions, Docker, Kubernetes, Vault |
-| **Monitoring** | Prometheus, Grafana |
-| **Infrastructure** | Hybrid: On-premise (sensitive data) + Google Cloud (scalable services) |
-| **Web Server** | Nginx + Apache (Ubuntu 24.04 LTS, Oracle VirtualBox) |
+### For Service Providers
+We modernize traditional, often paper-based operations with intelligent digital tools:
+- **Funeral homes**: CRM-integrated client management, service scheduling, and vendor coordination
+- **Cemetery caretakers**: AI-optimized route planning to reduce fuel/time by up to 40%
+- **Religious artisans & suppliers**: Pan-European marketplace for sacred goods and church equipment
+- **Cleaning & maintenance teams**: Mobile apps with GPS grave locators and service tracking
 
-### 🔐 Compliance & Security
-- ✅ GDPR (General Data Protection Regulation)  
-- ✅ EN 15017:2005 (Funeral Service Standards)  
-- ✅ AI Act (EU) – Transparent, human-in-the-loop AI  
-- ✅ WCAG 2.1 AA (Accessibility)  
-- ✅ ISO 27001-aligned security practices  
+> ✅ All solutions are **multilingual (27 EU languages + Ukrainian, Russian, Arabic)** and **WCAG-compliant** for accessibility.
 
 ---
 
-## 🌍 Who Benefits?
+## 🛠️ Technical Architecture
 
-### 🏛️ For Faith Communities
-- **Catholic Parishes / Cathedrals / Basilicas**  
-  Live-stream Mass, manage sacraments, automate volunteer coordination, and accept secure donations.  
-- **Protestant & Independent Churches**  
-  Custom websites, sermon libraries, event management, and community engagement tools.  
-- **Spiritual Formation**  
-  Access to on-demand content: podcasts, educational videos, and liturgical calendars.
+We build robust, secure, and future-ready systems using modern DevOps practices and enterprise-grade technologies.
 
-### ⚰️ For Service Providers
-- **Funeral Homes**  
-  CRM for client families, digital pre-arrangement planning, and vendor coordination.  
-- **Cemetery & Grave Care Services**  
-  AI route planner, recurring service scheduling, and client portals.  
-- **Religious Artisans & Suppliers**  
-  E-commerce storefronts for vestments, icons, candles, and sacred art.
+### 🔧 Core Stack
+| Layer               | Technology                                                                 |
+|---------------------|----------------------------------------------------------------------------|
+| **CMS & Portal**     | 1C-Bitrix (Enterprise CMS)                                                 |
+| **CRM & Automation** | Bitrix24 (deeply integrated for contacts, workflows, and communications)   |
+| **Backend**          | Python (Django, FastAPI)                                                   |
+| **Frontend (Web)**   | React.js, Tailwind CSS                                                       |
+| **Mobile Apps**      | Flutter (iOS & Android) – single codebase, native performance              |
+| **Databases**        | PostgreSQL (structured data), MongoDB (logs, AI metadata)                  |
+| **AI & NLP**         | LangChain, Hugging Face Transformers, Local LLMs (privacy-first AI)        |
+| **DevOps & CI/CD**   | GitHub Actions, Docker, Kubernetes, HashiCorp Vault, Prometheus, Grafana   |
+| **Cloud & Hosting**  | Hybrid: GCP (for scalable AI/media), On-premise (for sensitive EU data)    |
+| **Security**         | End-to-end encryption, GDPR-compliant data handling, OAuth 2.0, 2FA        |
 
----
-
-## 🤝 Join Us
-
-We welcome **collaboration from developers, security auditors, theologians, and ministry leaders** who believe technology should serve faith with integrity.
-
-### 🔧 For Developers
-- Contribute to our open modules (AI, CRM, routing)
-- Audit our code for security & compliance
-- Help localize content and interfaces
-- Improve accessibility and performance
-
-### 📣 For Faith & Service Leaders
-- Request a **free demo** for your parish or business
-- Suggest features that reflect real-world needs
-- Share feedback on usability and spiritual sensitivity
+### 🌐 Infrastructure Principles
+- **Hybrid Cloud Model**: Sensitive EU data remains on-premise; public-facing services use GCP
+- **GDPR & AI Act Compliance**: Full adherence to EU regulations
+- **Accessibility-First**: WCAG 2.1 AA standards for all user interfaces
+- **Open Collaboration**: Public documentation, private repos with access control
 
 ---
 
-## 📬 Get in Touch
-- **Email**: [JourneyOfLife1@gmail.com](mailto:JourneyOfLife1@gmail.com)
-- **Website**: [https://journeyoflife.eu](https://journeyoflife.eu)
-- **GitHub**: [github.com/JourneyOfLife](https://github.com/JourneyOfLife)
+## 💡 Key Features & Innovations
 
-> *“Where faith meets innovation — one life, one prayer, one service at a time.”*
+| Feature                          | Description |
+|----------------------------------|-----------|
+| **AI Route Optimization**        | Reduces travel time for grave care teams using real-time traffic and service duration data |
+| **Blockchain Donation Ledger**   | Transparent, immutable record of all contributions — donors can verify usage |
+| **Multilingual AI Chatbot**      | Answers FAQs on sacraments, events, and rituals in 30+ languages |
+| **Sermon Search Engine**         | AI-powered full-text search across audio/video sermons (speech-to-text + NLP) |
+| **Integrated CRM (Bitrix24)**    | Unified dashboard for managing parishioners, families, vendors, and events |
+| **Mobile App (Flutter)**         | One app for parishes, funeral homes, and caretakers — booking, GPS, notifications |
+| **Pan-EU Marketplace**           | B2B/B2C marketplace for religious goods, church equipment, and artisan crafts |
 
 ---
 
-## 📜 License
-MIT License © 2025 Journey of Life  
-This project is open for collaboration with ethical, faith-aligned contributors.
+## 🧩 Repository Structure
+
+This organization follows a **modular monorepo strategy** for maintainability and scalability:
