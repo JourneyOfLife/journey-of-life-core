@@ -25,13 +25,13 @@ Custom digital platforms for Protestant denominations, supporting multilingual w
 
 ---
 
-## ✝️ Romanian Orthodox Churches (ROC)  
+## ☦️Romanian Orthodox Churches (ROC)  
 **Parishes and Diocesan Structures**  
 Web solutions for ROC entities with support for traditional Orthodox liturgy, iconography, and spiritual resources.
 
 ---
 
-## ✝️ Russian Orthodox Churches and Parishes  
+## ☦️ Russian Orthodox Churches and Parishes  
 **Traditional and Regional Orthodox Communities**  
 Dedicated sites for Russian Orthodox parishes, featuring GPS grave locators, donation portals, and sermon broadcasting.
 
@@ -49,7 +49,7 @@ Service portals for cemetery maintenance businesses, featuring before/after gall
 
 ---
 
-## 🤝 Marketplace for Religious Goods  
+## 🛒 Marketplace for Religious Goods  
 **Cross-border e-commerce for church supplies, devotional items, and artisan crafts**  
 A multilingual platform for vendors and parishes to buy and sell religious goods across 27 EU countries and beyond.
 
