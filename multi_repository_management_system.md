@@ -20,7 +20,7 @@ Managing 400,000+ websites requires **automated consistency**:
 | Repository | Primary Function | Data Domain | Compliance Boundary | Student Action |
 |------------|------------------|-------------|---------------------|---------------|
 | `journey-of-life-core` | Global infrastructure code | None (technical) | EU-wide | Clone FIRST - this is your foundation |
-| `master-site` | Country portal templates | Public metadata | Per-country | Branch pattern: `country/[code]/[feature]` |
+| `journey-of-life-master-site` | Country portal templates | Public metadata | Per-country | Branch pattern: `country/[code]/[feature]` |
 | `catholic-digital-ministry` | Church management system | Religious data | Diocese-level | NEVER touch funeral/cemetery code |
 | `funeral-services` | Funeral home platform | Health data | National | Separate from religious data per GDPR |
 | `cemetery-care-services` | Grave maintenance | Personal data | Municipal | Strictest access controls |
@@ -40,7 +40,7 @@ Managing 400,000+ websites requires **automated consistency**:
    - File > Add Folder to Workspace
    - Add in this sequence:
      1. `journey-of-life-core` (foundation)
-     2. `master-site` (country portals)
+     2. `journey-of-life-master-site` (country portals)
      3. `catholic-digital-ministry` (churches)
      4. `funeral-services` (funeral homes)
      5. `cemetery-care-services` (cleaning)
@@ -56,7 +56,7 @@ Managing 400,000+ websites requires **automated consistency**:
    {
      "folders": [
        {"path": "journey-of-life-core", "name": "CORE (Global Infrastructure)"},
-       {"path": "master-site", "name": "MASTER (Country Portals)"},
+       {"path": "journey-of-life-master-site", "name": "MASTER (Country Portals)"},
        {"path": "catholic-digital-ministry", "name": "CHURCH (Religious Data)"},
        {"path": "funeral-services", "name": "FUNERAL (Health Data)"},
        {"path": "cemetery-care-services", "name": "CEMETERY (Personal Data)"},
@@ -72,7 +72,7 @@ Managing 400,000+ websites requires **automated consistency**:
        },
        "eslint.workingDirectories": [
          {"directory": "journey-of-life-core", "changeProcessCWD": true},
-         {"directory": "master-site", "changeProcessCWD": true}
+         {"directory": "journey-of-life-master-site", "changeProcessCWD": true}
          // ... repeat for all repos
        ]
      }
@@ -149,9 +149,16 @@ graph LR
    │   ├── gdpr-notices.md
    │   ├── cookie-policy.json
    │   └── data-processing-records/
+   │ 
    ├── lv/  # Latvia
-   │   └── ...
+   │   ├── gdpr-notices.md
+   │   ├── cookie-policy.json
+   │   └── data-processing-records/
+   │   
    └── ee/  # Estonia
+       ├── gdpr-notices.md
+       ├── cookie-policy.json
+       └── data-processing-records/
    ```
 
 2. Automated notice injection (`journey-of-life-core/scripts/gdpr-inject.js`):
