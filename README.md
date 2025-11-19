@@ -1,12 +1,12 @@
 # 🌐 Journey of Life – Sacred Technology for Faith & Service  
 ## *Empowering Catholic, Protestant, and Ceremonial Institutions Across Europe Through Ethical, AI-Driven Digital Solutions*
 
-> **GitHub Organization**: [github.com/JourneyOfLife](https://github.com/JourneyOfLife)  
-> **Official Website**: [Journey Of Life HUB](https://jol-hub.com)
-> **Official For-Lithuania**: [Gyvenimo-Kelias HUB](https://gyvenimo-kelias.lt/)
-> **Official For-Latvia**: [Dzives-Cels HUB](http://dzives-cels.lv/)
-> **Official For-Estonia**: [Elu-Tee HUB](https://elu-tee.ee) 
-> **Contact**: journey4oflife@gmail.com
+> **GitHub Organization**: [JourneyOfLife](https://github.com/JourneyOfLife)  
+> **Official Website**: [Journey Of Life HUB](https://jol-hub.com)  
+> **Lithuania Portal**: [Gyvenimo-Kelias HUB](https://gyvenimo-kelias.lt/)  
+> **Latvia Portal**: [Dzives-Cels HUB](http://dzives-cels.lv/)  
+> **Estonia Portal**: [Elu-Tee HUB](https://elu-tee.ee)  
+> **Contact Email**: [journey4oflife@gmail.com](mailto:journey4oflife@gmail.com)
 > 
 > **License**: MIT License © 2025 Journey of Life
 
