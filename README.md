@@ -5,7 +5,7 @@
 > **Official Website**: [Journey Of Life HUB](https://jol-hub.com)
 > **Official For-Lithuania**: [Gyvenimo-Kelias HUB](https://gyvenimo-kelias.lt/)
 > **Official For-Latvia**: [Dzives-Cels HUB](http://dzives-cels.lv/)
-> **Official For-Estonia**: [Journey Of Life HUB](https://elu-tee.ee) 
+> **Official For-Estonia**: [Elu-Tee HUB](https://elu-tee.ee) 
 > **Contact**: journey4oflife@gmail.com
 > 
 > **License**: MIT License © 2025 Journey of Life
